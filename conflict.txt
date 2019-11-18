@@ -1,0 +1,3 @@
+This is a conflict file
+second line
+third line
