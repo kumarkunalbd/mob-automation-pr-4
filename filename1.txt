@@ -27,3 +27,5 @@ this is feature branch commit2 ftr13katekunal
 this is feature branch commit3 ftr13katekunal
 
 ftr17katekunal #1
+
+Direct commit on master Branch
