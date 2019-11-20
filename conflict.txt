@@ -1,4 +1,8 @@
 This is a conflict file
 second line
+
 third line 24
 4 line
+third line 23
+line 4
+
